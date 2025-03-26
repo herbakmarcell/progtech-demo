@@ -8,7 +8,7 @@ namespace ProgTech2025B.Patterns
 {
     internal class EagerSingleton
     {
-        // Osztályszintű, mivel el kell érnem példányosítás nélkül
+        // Osztályszintű, mivel el kell érnem példányosítás nélkül :)
         // Mivel mohó, ezért rögtön a program lefutásakor rögtön példányosítjuk
         private static EagerSingleton instance = new EagerSingleton();
         // Biztonságos elérés
