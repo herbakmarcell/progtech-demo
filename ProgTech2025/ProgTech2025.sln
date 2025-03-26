@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgTech2025B", "ProgTech2025B\ProgTech2025B.csproj", "{CBC49698-5785-4C26-A7B7-C3015DF3100C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgTech2025C", "ProgTech2025C\ProgTech2025C.csproj", "{4DDA1E40-FD10-4DFB-AC80-7BAE625D5F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC49698-5785-4C26-A7B7-C3015DF3100C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC49698-5785-4C26-A7B7-C3015DF3100C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC49698-5785-4C26-A7B7-C3015DF3100C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC49698-5785-4C26-A7B7-C3015DF3100C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDA1E40-FD10-4DFB-AC80-7BAE625D5F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDA1E40-FD10-4DFB-AC80-7BAE625D5F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDA1E40-FD10-4DFB-AC80-7BAE625D5F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDA1E40-FD10-4DFB-AC80-7BAE625D5F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
