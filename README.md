@@ -6,3 +6,8 @@
 A rendszer célja bemutatni a Git működést és Kanban fejlesztési folyamatot Java ablakos alkalmazás fejlesztésével.
 
 ## 2. Követelmények
+
+## 3. Üzleti szereplők
+
+Megrendelő: Herbák Marcell
+
