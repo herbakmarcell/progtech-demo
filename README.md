@@ -11,3 +11,5 @@ A rendszer célja bemutatni a Git működést és Kanban fejlesztési folyamatot
 
 Megrendelő: Herbák Marcell
 
+
+
