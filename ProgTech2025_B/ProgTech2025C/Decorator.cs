@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProgTech2025C
 {
-    abstract class Doge // BaseClass
+    abstract class Doge // BaseClass :)
     {
         public abstract string Name { get; set; }
         public abstract int Age { get; set; }
